@@ -15,7 +15,7 @@ Recently, due to more personal applications on the Internet of Things, there is 
 ```text
 # Need to install golang before building.
 
-git clone https://github.com/gwaycc/supd.git
+git clone https://github.com/gwaypg/supd.git
 cd supd
 . env.sh
 cd cmd/supd
@@ -24,7 +24,7 @@ cd cmd/supd
 
 ## Install from binary
 
-Download binary package from https://github.com/gwaycc/supd/releases and decompress the package.
+Download binary package from https://github.com/gwaypg/supd/releases and decompress the package.
 
 ```text
 cd supd

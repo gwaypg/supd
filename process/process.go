@@ -15,10 +15,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gwaycc/supd/config"
-	"github.com/gwaycc/supd/events"
-	"github.com/gwaycc/supd/logger"
-	"github.com/gwaycc/supd/signals"
+	"github.com/gwaypg/supd/config"
+	"github.com/gwaypg/supd/events"
+	"github.com/gwaypg/supd/logger"
+	"github.com/gwaypg/supd/signals"
 	"github.com/gwaylib/errors"
 	log "github.com/sirupsen/logrus"
 )

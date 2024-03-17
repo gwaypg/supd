@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unicode"
 
-	"github.com/gwaycc/supd/logger"
+	"github.com/gwaypg/supd/logger"
 
 	"github.com/jessevdk/go-flags"
 	log "github.com/sirupsen/logrus"

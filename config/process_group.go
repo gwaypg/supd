@@ -3,7 +3,7 @@ package config
 import (
 	"bytes"
 	"strings"
-	"github.com/gwaycc/supd/util"
+	"github.com/gwaypg/supd/util"
 )
 
 type ProcessGroup struct {
