@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gwaycc/supd/config"
-	"github.com/gwaycc/supd/rpcclient"
-	"github.com/gwaycc/supd/types"
+	"github.com/gwaypg/supd/config"
+	"github.com/gwaypg/supd/rpcclient"
+	"github.com/gwaypg/supd/types"
 
 	"github.com/gwaylib/errors"
 	"github.com/hpcloud/tail"

@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/gwaycc/supd/rpcclient"
-	"github.com/gwaycc/supd/types"
+	"github.com/gwaypg/supd/rpcclient"
+	"github.com/gwaypg/supd/types"
 
 	"github.com/gorilla/mux"
 )

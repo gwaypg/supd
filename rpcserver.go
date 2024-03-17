@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gwaycc/supd/rpcclient"
+	"github.com/gwaypg/supd/rpcclient"
 	"github.com/gwaylib/errors"
 
 	log "github.com/sirupsen/logrus"
